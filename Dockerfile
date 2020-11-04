@@ -1,1 +1,1 @@
-FROM jenkins
+FROM nginxdemos/hello
