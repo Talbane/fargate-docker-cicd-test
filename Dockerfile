@@ -1,1 +1,1 @@
-FROM sandysenthil/misfits
+FROM nginxdemos/hello
